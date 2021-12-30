@@ -1,0 +1,12 @@
+.head{
+   
+    
+                background-image: url('./229832.jpg'); 
+} 
+.tuniflix{
+    font-family: 'comic sans ms','Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-style: italic;
+    color: #E50914;
+    -webkit-text-stroke: 0.5px rgb(241, 235, 235);;
+    text-shadow: 5px 8px 2px black;
+  }
