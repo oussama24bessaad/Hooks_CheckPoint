@@ -7,15 +7,31 @@
   height: 40vmin;
   pointer-events: none;
 }
+.image-container {
+	position: relative;
+	transition: transform 0.2s;
+}
 
+.image-container:hover {
+	cursor: pointer;
+	transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	-o-transform: scale(1.1);
+}
+
+.image-container:hover .overlay {
+	opacity: 1;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
 .imgsz{
-  width: 300px;
-  height: 500px;
+  width: 200px;
+  height: 400px;
 }
 .App-header {
   background-color: #be0b0b;
