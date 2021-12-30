@@ -18,17 +18,17 @@ function App() {
        {
       title: "La Casa De Papel",
       Year: "2020",
-      Rating: "5",
+      Rating: "4",
       description: "La casa de papel (prononcé : [la kasa de papel])1, ou La Maison de papier au Québec, est une série télévisée espagnole créée par Álex Pina et diffusée entre le 2 mai 2017 et le 23 novembre 2017 sur la chaîne Antena 3 en Espagne.Dans le reste du monde, la diffusion de la première saison – en deux parties – débute le 20 décembre 2017 sur Netflix et connaît un très grand succès mondial. La deuxième saison, exclusive à Netflix, est composée des troisième, quatrième et cinquième parties. Les troisième et quatrième parties sortent respectivement le 19 juillet 2019 et le 3 avril 2020. Les 5 premiers épisodes de la cinquième et dernière partie sont diffusés sur Netflix le 3 septembre 2021 tandis que les 5 derniers épisodes sont diffuser le 3 décembre 20212.",
-      rating: "5",
+      rating: "4",
       posterURL: "https://www.journaldugeek.com/content/uploads/2020/04/lcdp-s4-vert-main-rgb-es-365x540.jpg"
       
     },{
       title: "Red Notice",
       Year: "2021",
-      Rating: "4",
+      Rating: "3",
       description: "Red Notice ou Notice rouge1 au Québec, est une comédie d'action américaine écrite, coproduite et réalisée par Rawson Marshall Thurber, sortie en 2021 sur Netflix2",
-      rating: "4",
+      rating: "3",
       posterURL:
         "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/i/edit/2021/10/red-notice-1200.jpg",
     },
