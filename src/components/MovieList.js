@@ -4,7 +4,7 @@ import { Container, Row } from "react-bootstrap";
 const MovieList = ({ movies, searchtitle, rating }) => {
   return (
     <Container>
-      <Row className="g-4">
+      <Row className="g-4 ">
         {rating !== 0 && searchtitle === ""
           ? movies
               .filter((movie) => movie.rating >= rating)
